@@ -2,9 +2,8 @@
 
 Mit dieser step-by-step Anleitung senden Sie ihre erste Campaign. Folgen Sie den Anweisungen um eine Campaign zu erstellen, zu testen, dann zu senden und anschliessend die Reports auszuwerten.
 
-Inhaltsverzeichnis:
-
-- [Campaign erstellen](#Campaign erstellen)
+## Inhaltsverzeichnis:
+- [Campaign erstellen](#campaign-erstellen)
 - Empfänger wählen
 - Campaign überprüfen
 - Campaign testen
