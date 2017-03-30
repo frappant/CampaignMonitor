@@ -1,0 +1,2 @@
+# CampaignMonitor
+Kurzes deutsches README
