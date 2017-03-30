@@ -4,11 +4,11 @@ Mit dieser step-by-step Anleitung senden Sie ihre erste Campaign. Folgen Sie den
 
 ## Inhaltsverzeichnis:
 - [Campaign erstellen](#campaign-erstellen)
-- Empfänger wählen
-- Campaign überprüfen
-- Campaign testen
-- Campaign verschicken
-- Campaign reports
+- [Empfänger wählen](#empfänger-wählen)
+- [Campaign überprüfen](#campaign-überprüfen)
+- [Campaign testen](#campaign-testen)
+- [Campaign verschicken](#campaign-verschicken)
+- [Campaign reports](#campaign-reports)
 
 ## Campaign erstellen
 
